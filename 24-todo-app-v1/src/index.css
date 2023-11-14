@@ -8,7 +8,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-    color: red;
-    background-color: bisque;
+    color: rgb(255, 0, 166);
+    background-color: rgb(196, 250, 255);
     font-style: italic;
 }
